@@ -3,7 +3,7 @@
 ![image.png](image.png)
 
 ```powershell
-**nc foggy-cliff.picoctf.net 56823**
+nc foggy-cliff.picoctf.net 56823
 ```
 
 ![image.png](image%201.png)
